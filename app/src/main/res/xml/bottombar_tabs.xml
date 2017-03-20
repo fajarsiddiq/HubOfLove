@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/navigation_notes"
+        icon="@drawable/ic_notes"
+        title="@string/title_notes" />
+    <tab
+        id="@+id/navigation_timeline"
+        icon="@drawable/ic_timeline"
+        title="@string/title_timeline" />
+    <tab
+        id="@+id/navigation_home"
+        icon="@drawable/ic_home"
+        title="@string/title_home" />
+    <tab
+        id="@+id/navigation_wishlist"
+        icon="@drawable/ic_wishlist"
+        title="@string/title_wishlist" />
+    <tab
+        id="@+id/navigation_planner"
+        icon="@drawable/ic_planner"
+        title="@string/title_planner" />
+</tabs>

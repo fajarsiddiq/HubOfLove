@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hub of Love</string>
+    <string name="title_home">Home</string>
+    <string name="title_timeline">Timeline</string>
+    <string name="title_notes">Notes</string>
+    <string name="title_planner">Planner</string>
+    <string name="title_wishlist">Wishlist</string>
+</resources>
